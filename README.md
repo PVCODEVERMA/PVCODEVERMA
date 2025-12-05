@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**PVCODEVERMA/PVCODEVERMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently work# 💫 About Me:
+# 💫 About Me:
 I’m a passionate MERN Stack Developer with 1.3+ years of hands-on experience developing full-stack applications, dashboards, REST APIs, and automation workflows. I’ve worked with companies like TLS Technology, Websbaba Technologies, Marv Softwares, and Z.N. Infotech, where I contributed to building production-ready platforms, optimizing performance, and improving user experience.<br>I love working with React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and deployment tools. My focus is always on writing clean, structured code and delivering impactful, scalable solutions.
 
 
@@ -29,12 +22,4 @@ I’m a passionate MERN Stack Developer with 1.3+ years of hands-on experience d
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Pankaj verma) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pankaj) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ing on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
