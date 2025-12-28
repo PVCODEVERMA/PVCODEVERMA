@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate MERN Stack Developer with 1.3+ years of hands-on experience developing full-stack applications, dashboards, REST APIs, and automation workflows. I’ve worked with companies like TLS Technology, Websbaba Technologies, Marv Softwares, and Z.N. Infotech, where I contributed to building production-ready platforms, optimizing performance, and improving user experience.<br>I love working with React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and deployment tools. My focus is always on writing clean, structured code and delivering impactful, scalable solutions.
+I’m a passionate MERN Stack Developer with 1.5+ years of hands-on experience developing full-stack applications, dashboards, REST APIs, and automation workflows. I’ve worked with companies like TLS Technology, Websbaba Technologies, Marv Softwares, and Z.N. Infotech, where I contributed to building production-ready platforms, optimizing performance, and improving user experience.<br>I love working with React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and deployment tools. My focus is always on writing clean, structured code and delivering impactful, scalable solutions.
 
 
 ## 🌐 Socials:
