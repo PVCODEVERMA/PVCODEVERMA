@@ -1,8 +1,8 @@
 <h2 align="center">Hey, I'm Pankaj Verma 👋</h2>
 
 <p align="center">
-  Full Stack Developer &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; Building in public<br/>
-  <sub>Greater Noida, Uttar Pradesh &nbsp;|&nbsp; Open to freelance</sub>
+  Full Stack Developer | Software Engineer | Building in public<br/>
+  <sub>Greater Noida, Uttar Pradesh | Open to freelance</sub>
 </p>
 
 ---
