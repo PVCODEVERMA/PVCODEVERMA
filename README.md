@@ -43,9 +43,9 @@ Full Stack Developer with 1.5 year of professional experience building scalable,
 
 | Company | Role | Period |
 |---|---|---|
-| **Daakit Technologies** | Software Engineer | Apr 2026 – Present |
-| Websbaba Technologies | Full Stack Developer | Oct – March 2026 |
-| Marv Softwares | Full Stack Intern | Dec 2024 – May 2025 |
+| **Daakit Technologies** | Software Engineer | Apr 2026 – Present  
+| Websbaba Technologies | Full Stack Developer | Apr 2025 – Mar 2026  |
+| Marv Softwares | Full Stack Intern | Jan 2025 – Mar 2025 |
 
 ---
 
