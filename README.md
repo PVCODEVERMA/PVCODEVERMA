@@ -130,24 +130,3 @@ Official company website with custom Admin Dashboard and SEO optimization. Secur
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PVCODEVERMA&hide_border=true&title_color=FF6E12&icon_color=FF6E12&text_color=ffffff&bg_color=0d1117&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVCODEVERMA&hide_border=true&title_color=FF6E12&text_color=ffffff&bg_color=0d1117&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PVCODEVERMA&hide_border=true&ring=FF6E12&fire=FF6E12&currStreakLabel=FF6E12&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PVCODEVERMA&color=FF6E12&line=FF6E12&point=ffffff&area=true&hide_border=true&bg_color=0d1117" />
-</p>
-
---- -->
-
-<p align="center">
-  ⭐ <b style="color:#FF6E12">Building scalable software</b> • Learning every day • Open to exciting opportunities
-</p>
